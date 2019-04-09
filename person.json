@@ -1,7 +1,5 @@
 {
-    "person":{
-        "name": "khk",
-        "age": 26,
-        "role": "developer"
-    }
+    "name": "khk",
+    "age": 26,
+    "role": "developer"
 }
