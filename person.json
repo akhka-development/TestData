@@ -2,21 +2,21 @@
     {
     "name": "khk",
     "age": 26,
-    "role": "developer"
+    "role": "Developer"
     },
     {
     "name": "Mohammad",
     "age": 20,
-    "role": "programmer"
+    "role": "Programmer"
     },
     {
     "name": "akhka",
     "age": 35,
-    "role": "analiser"
+    "role": "Analiser"
     },
     {
     "name": "MK",
     "age": 17,
-    "role": "student"
+    "role": "Student"
     }
 ]
