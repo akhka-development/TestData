@@ -3,5 +3,20 @@
     "name": "khk",
     "age": 26,
     "role": "developer"
+    },
+    {
+    "name": "Mohammad",
+    "age": 20,
+    "role": "programmer"
+    },
+    {
+    "name": "akhka",
+    "age": 35,
+    "role": "analiser"
+    },
+    {
+    "name": "MK",
+    "age": 17,
+    "role": "student"
     }
 ]
