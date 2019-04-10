@@ -1,5 +1,7 @@
-{
+[
+    {
     "name": "khk",
     "age": 26,
     "role": "developer"
-}
+    }
+]
