@@ -1,0 +1,22 @@
+[
+    {
+    "name": "khk_first",
+    "age": 26,
+    "role": "Developer"
+    },
+    {
+    "name": "Mohammad_first",
+    "age": 20,
+    "role": "Programmer"
+    },
+    {
+    "name": "akhka_first",
+    "age": 35,
+    "role": "Analiser"
+    },
+    {
+    "name": "MK_first",
+    "age": 17,
+    "role": "Student"
+    }
+]
